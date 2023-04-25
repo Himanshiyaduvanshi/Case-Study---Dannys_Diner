@@ -105,7 +105,7 @@ order by 3;
 Select 
 s.customer_id as 'Customer Id',
 sum(case when m.product_name = 'sushi' then (m.price * 20)
-	else (m.price * 10)
+	 else (m.price * 10)
 end) as 'Total Points'
 from sales as s
 join menu as m
