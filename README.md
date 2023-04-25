@@ -13,6 +13,9 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has shared with you 3 key datasets for this case study:
 
 --> sales
+
 --> menu
+
 --> members
+
 You can inspect the entity relationship diagram and example data below.
