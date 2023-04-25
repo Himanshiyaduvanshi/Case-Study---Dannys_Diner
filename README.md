@@ -1,1 +1,1 @@
-# Case-Study---Dannys_Diner
+# Case Study --> Dannys_Diner
