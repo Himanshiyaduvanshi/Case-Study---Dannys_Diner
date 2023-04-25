@@ -23,3 +23,15 @@ You can inspect the entity relationship diagram and example data below.
 ## Entity Relationship Diagram
 
 ![image](https://user-images.githubusercontent.com/66130538/234349195-d4f8f82d-96d6-40ec-b24a-ce81204aa7e4.png)
+
+## Table 1: sales
+
+The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
+## Table 2: menu
+
+The menu table maps the product_id to the actual product_name and price of each menu item.
+
+## Table 3: members
+
+The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
